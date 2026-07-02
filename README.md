@@ -1,2 +1,2 @@
 # live-weather-tracker
-A minimal Python CLI weather app using WeatherAPI to fetch live global data. Built for the terminal, it takes dynamic city inputs and displays real-time conditions, humidity, wind speed, and air quality with temperatures in Celsius. Clean, comment-free backend code optimized for PyCharm that delivers instant reports with a low footprint.
+minimal Python CLI weather app using WeatherAPI to track global data. It captures dynamic city inputs to display live conditions, humidity, wind, and air quality in Celsius. Features an integrated Windows PowerShell RoboSpeaker that reads reports aloud. Clean, comment-free backend code optimized for PyCharm with a small footprint.
